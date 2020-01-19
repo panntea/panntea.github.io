@@ -828,7 +828,7 @@ font-size: 6rem;
 }
 
 .single_pakeg_one{
-	background:url(../images/bubbletea.jpg) right center no-repeat;
+	background:url(../images/bubbletea.jpg) left center no-repeat;
 	padding:30px;
 	overflow:hidden;
     margin-top:60px;
@@ -836,7 +836,7 @@ font-size: 6rem;
 
 }
 .single_pakeg_two{
-	background:url(../images/tea2.jpg) left center no-repeat;
+	background:url(../images/tea2.jpg) right center no-repeat;
 	padding:30px;	
 	overflow:hidden;
 	margin-top:60px;	
@@ -844,7 +844,7 @@ font-size: 6rem;
 
 }
 .single_pakeg_three{
-	background:url(../images/food-18.jpg) right center no-repeat;
+	background:url(../images/food-18.jpg) left center no-repeat;
 	padding:30px;	
 	overflow:hidden;
     margin-top:60px;
